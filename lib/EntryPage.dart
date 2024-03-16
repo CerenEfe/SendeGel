@@ -10,7 +10,7 @@ class EntryPage extends StatefulWidget {
     return _EntryState();
   }
 }
-
+// yorum satırı
 class _EntryState extends State<EntryPage> {
   late TextEditingController _emailController;
   late TextEditingController _passwordController;
